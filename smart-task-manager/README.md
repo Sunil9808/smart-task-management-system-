@@ -204,4 +204,4 @@ These edits were performed by the coding agent through file patches and terminal
 
 ## GitHub preparation
 
-The repository ignore rules exclude `.env` files, dependencies, builds, test coverage, local MongoDB data, and logs; `.env.example` files are intentionally included. Review `git status`, run the checks above, and inspect the staged diff before committing. Do not add real connection strings or session secrets. No GitHub push was performed or authorized.
+The repository ignore rules exclude `.env` files, dependencies, builds, test coverage, local MongoDB data, and logs; `.env.example` files are intentionally included. Review `git status`, run the checks above, and inspect the staged diff before committing. Do not add real connection strings or session secrets. The user authorized publication to [Sunil9808/smart-task-management-system-](https://github.com/Sunil9808/smart-task-management-system-) on 12 October 2026; see VALIDATION.md for verification results.

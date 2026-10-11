@@ -14,7 +14,7 @@
 
 ## Tool provenance
 
-Development performed with Codex. No Code0 executable or connector was available at initial inspection; the user explicitly approved continuing with Codex. No Code0 activity, suggestions, reviews, or terminal operations are claimed. No remote push is authorized.
+Development performed with Codex. No Code0 executable or connector was available at initial inspection; the user explicitly approved continuing with Codex. No Code0 activity, suggestions, reviews, or terminal operations are claimed. The user authorized a remote push to `Sunil9808/smart-task-management-system-` on 12 October 2026.
 
 ## Architecture decisions
 
